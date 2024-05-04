@@ -12,27 +12,27 @@ function HomePage() {
     <div className="wrapper bg-[#070707] relative h-[800px]">
       <div className="first-container bg-gradient-to-b from-[#070707] to-[#dd7ab1] h-[300px] rounded-b-[70px] ">
         <img
-          src="../../public/pic/jj1.png"
+          src="/public/pic/jj1.png"
           className=" relative z-10 top-[50px] left-[140px] h-[300px]"
         />
         <img
-          src="../../public/pic/rainbow.png"
+          src="/public/pic/rainbow.png"
           className=" relative z-10 left-[50px] bottom-[250px] h-[50px] animate-bounce"
         />
         <img
-          src="../../public/pic/star.png"
+          src="/public/pic/star.png"
           className=" relative z-10 bottom-[230px] left-[320px] h-[50px] animate-spin"
         />
         <img
-          src="../../public/pic/heart.png"
+          src="/public/pic/heart.png"
           className=" relative z-10 bottom-[20px] left-[30px] h-[50px] animate-bounce"
         />
         <img
-          src="../../public/pic/umbrella.png"
+          src="/public/pic/umbrella.png"
           className=" relative z-10 top-[50px] left-[340px] h-[50px] animate-bounce"
         />
         <img
-          src="../../public/pic/smile1.png"
+          src="/public/pic/smile1.png"
           className=" relative z-10 top-[70px] left-[140px] h-[50px] animate-bounce"
         />
       </div>
