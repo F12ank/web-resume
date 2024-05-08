@@ -22,15 +22,15 @@ function HomePage() {
         />
         <img
           src="/pic/star.png"
-          className=" relative z-10 bottom-[230px] left-[320px] h-[50px] animate-spin"
+          className=" relative z-10 bottom-[230px] left-[320px] h-[50px] animate-slow-spin"
         />
         <img
-          src="/pic/heart.png"
-          className=" relative  z-20 top-[50px] left-[10px] h-[60px] animate-bounce "
+          src="/pic/sun.png"
+          className=" relative  z-20 top-[0px] left-[15px] h-[60px] animate-superslow-spin "
         />
         <img
           src="/pic/umbrella.png"
-          className=" relative z-20 top-[50px] left-[320px] h-[50px] animate-bounce"
+          className=" relative z-20 top-[-45px] left-[320px] h-[50px] animate-bounce"
         />
         <img
           src="/pic/smile1.png"
@@ -39,6 +39,14 @@ function HomePage() {
         <img
           src="/pic/jj2.png"
           className=" absolute z-10 top-[150px] left-[50px] h-[250px]"
+        />
+        <img
+          src="/pic/heart.png"
+          className=" absolute z-10 top-[260px] left-[320px] h-[30px]"
+        />
+        <img
+          src="/pic/dog.png"
+          className=" absolute z-10 top-[280px] left-[20px] h-[30px]"
         />
       </div>
 
